@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "string-quotes": "double",
+    "unicode-bom": "never"
+  },
+  "extends": ["stylelint-config-prettier", "stylelint-config-recommended-scss"]
+}
